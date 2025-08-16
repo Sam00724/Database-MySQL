@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "product_name": "Intelligent Fresh Chair",
+        "product_price": 655,
+        "product_material": "Concrete",
+        "product_color": "mint green"
+    },
+    {
+        "id": 2,
+        "product_name": "Practical Fresh Sausages",
+        "product_price": 911,
+        "product_material": "Cotton",
+        "product_color": "indigo"
+    },
+    {
+        "id": 3,
+        "product_name": "Refined Steel Car",
+        "product_price": 690,
+        "product_material": "Rubber",
+        "product_color": "gold"
+    },
+    {
+        "id": 4,
+        "product_name": "Gorgeous Plastic Pants",
+        "product_price": 492,
+        "product_material": "Soft",
+        "product_color": "plum"
+    },
+    {
+        "id": 5,
+        "product_name": "Sleek Cotton Chair",
+        "product_price": 33,
+        "product_material": "Fresh",
+        "product_color": "black"
+    },
+    {
+        "id": 6,
+        "product_name": "Awesome Wooden Towels",
+        "product_price": 474,
+        "product_material": "Plastic",
+        "product_color": "orange"
+    },
+    {
+        "id": 7,
+        "product_name": "Practical Soft Shoes",
+        "product_price": 500,
+        "product_material": "Rubber",
+        "product_color": "pink"
+    },
+    {
+        "id": 8,
+        "product_name": "Incredible Steel Hat",
+        "product_price": 78,
+        "product_material": "Rubber",
+        "product_color": "violet"
+    },
+    {
+        "id": 9,
+        "product_name": "Generic Wooden Pizza",
+        "product_price": 299,
+        "product_material": "Soft",
+        "product_color": "emerald"
+    },
+    {
+        "id": 10,
+        "product_name": "Unbranded Granite Cheese",
+        "product_price": 324,
+        "product_material": "Frozen",
+        "product_color": "azure"
+    },
+    {
+        "id": 11,
+        "product_name": "Ergonomic Rubber Lamp",
+        "product_price": 328,
+        "product_material": "Soft",
+        "product_color": "black"
+    },
+    {
+        "id": 12,
+        "product_name": "Intelligent Leather Bacon",
+        "product_price": 688,
+        "product_material": "Leather",
+        "product_color": "yellow"
+    },
+    {
+        "id": 13,
+        "product_name": "Handcrafted Silk Shirt",
+        "product_price": 244,
+        "product_material": "Cotton",
+        "product_color": "white"
+    },
+    {
+        "id": 14,
+        "product_name": "Tasty Rubber Cheese",
+        "product_price": 164,
+        "product_material": "Frozen",
+        "product_color": "orchid"
+    },
+    {
+        "id": 15,
+        "product_name": "Licensed Steel Car",
+        "product_price": 20,
+        "product_material": "Frozen",
+        "product_color": "indigo"
+    }
+]
