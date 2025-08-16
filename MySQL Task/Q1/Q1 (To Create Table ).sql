@@ -1,10 +1,9 @@
--- Step 1: Use your schema
 USE Emp;
 
--- Step 2: Drop table if it already exists
+-- To Drop table if it already exists
 DROP TABLE IF EXISTS Empl;
 
--- Step 3: Create the table
+-- To Create the table
 CREATE TABLE Empl (
     empno INT,
     ename VARCHAR(50),
@@ -16,7 +15,7 @@ CREATE TABLE Empl (
     deptno INT
 );
 
--- Step 4: Insert data
+-- Insert data
 INSERT INTO Empl VALUES
 (8369, 'SMITH', 'CLERK', 8902, '1990-12-18', 800.00, NULL, 20),
 (8499, 'ANYA', 'SALESMAN', 8698, '1991-02-20', 1600.00, 300.00, 30),
